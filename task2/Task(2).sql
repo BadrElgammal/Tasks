@@ -103,3 +103,12 @@ where category_id in(1,2,3)
 select *
 from sales.staffs
 where store_id=1 or phone is null
+
+SELECT
+    customer_id,
+    phone,
+    LEFT(phone, 3) as area_code,
+    RIGHT(phone, 4) as last_four,
+    '(' + LEFT(phone, 3) + ') ' + SUBSTRING(phone, 4, 3) + '-' + RIGHT(phone, 4) as formatted_phone
+FROM sales.customers
+WHERE phone IS NOT NULL AND customer_id <= 10;
