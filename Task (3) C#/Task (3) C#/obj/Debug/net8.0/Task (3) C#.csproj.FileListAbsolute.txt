@@ -1,0 +1,14 @@
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\bin\Debug\net8.0\Task (3) C#.exe
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\bin\Debug\net8.0\Task (3) C#.deps.json
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\bin\Debug\net8.0\Task (3) C#.runtimeconfig.json
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\bin\Debug\net8.0\Task (3) C#.dll
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\bin\Debug\net8.0\Task (3) C#.pdb
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\obj\Debug\net8.0\Task (3) C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\obj\Debug\net8.0\Task (3) C#.AssemblyInfoInputs.cache
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\obj\Debug\net8.0\Task (3) C#.AssemblyInfo.cs
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\obj\Debug\net8.0\Task (3) C#.csproj.CoreCompileInputs.cache
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\obj\Debug\net8.0\Task (3) C#.dll
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\obj\Debug\net8.0\refint\Task (3) C#.dll
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\obj\Debug\net8.0\Task (3) C#.pdb
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\obj\Debug\net8.0\Task (3) C#.genruntimeconfig.cache
+C:\Users\Eng-Badr Elgammal\source\repos\Task (3) C#\Task (3) C#\obj\Debug\net8.0\ref\Task (3) C#.dll
